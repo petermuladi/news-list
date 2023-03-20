@@ -10,7 +10,6 @@
 - React: 18.2.0
 - React-Redux: 8.0.4
 
-
 ## Dependencies
 
 This project uses the following dependencies:
@@ -45,9 +44,7 @@ To install the necessary dependency packages, navigate to the project directory 
 ```bash
 git clone https://github.com/petermuladi/news-list.git
 ```
-
 - Go to **my-app** folder☝
-
 
 ```bash
 npm install
@@ -79,7 +76,6 @@ npm run build
 
 - This will create a production build of the application in the build directory.
 
-
 ## Acknowledgments
 
 This project I was bootstrapped with Create React App.
@@ -90,7 +86,6 @@ Special thanks to the following libraries that made this project possible:
 - React Bootstrap - A popular front-end framework for building responsive websites with React.
 - React Icons - A library of icons for React projects.
 - React Toastify - A toast notification library for React.
-
 
 ## Additional Notes
 **The application was created by Muladi Péter.**
