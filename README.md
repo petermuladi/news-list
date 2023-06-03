@@ -1,4 +1,4 @@
-## 📢News List App
+# 📢News List App
 
 #### This is a React application for displaying and interacting with news list. The application uses a fake JSON server as a backend to retrieve and store data. The frontend is built using React and Redux, and styled with Bootstrap. The app is also responsive, making it accessible from any device. It also includes a contact form and newsletter subscription.
 
